@@ -1,10 +1,32 @@
 
 # ResQNet – Disaster Communication & Coordination Platform
+"ResQNet is designed for disaster scenarios where traditional internet and cellular infrastructure may be unavailable."
+
+
+## Problem Statement
+
+During emergencies, network outages, infrastructure failures, and large-scale disruptions, communities often struggle to communicate, coordinate resources, share verified information, and locate affected individuals.
+
+Traditional communication systems depend heavily on internet and cellular connectivity, making them vulnerable during critical situations.
+
+ResQNet addresses this challenge by providing a unified platform for community coordination, emergency communication, resource sharing, information dissemination, and missing-person reporting.
 
 ## Overview
 
-ResQNet is a disaster-response communication platform designed to help communities stay connected during emergencies. The system enables SOS reporting, community coordination, emergency messaging, resource sharing, and missing-person tracking through a centralized dashboard.
+ResQNet is a full-stack communication and coordination platform designed to strengthen community resilience during connectivity disruptions and emergency situations.
 
+The platform enables users to:
+
+Share emergency messages
+Broadcast SOS alerts
+Coordinate through community hubs
+Access critical knowledge resources
+Locate safe zones and support centers
+Report and track missing persons
+Connect with verified organizations
+Exchange voice-based communications
+
+By combining real-time coordination tools with community-driven information sharing, ResQNet helps individuals and organizations remain connected when conventional communication channels become unreliable.
 Built as a full-stack application using **Flutter**, **FastAPI**, and **SQLite**, ResQNet focuses on improving communication and situational awareness during disaster scenarios.
 
 ---
