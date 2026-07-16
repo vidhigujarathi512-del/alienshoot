@@ -2,18 +2,25 @@
 # ResQNet – Disaster Communication & Coordination Platform
 "ResQNet is designed for disaster scenarios where traditional internet and cellular infrastructure may be unavailable."
 
-
 ## Problem Statement
 
-During emergencies, network outages, infrastructure failures, and large-scale disruptions, communities often struggle to communicate, coordinate resources, share verified information, and locate affected individuals.
+Humanity's first contact with extraterrestrial life did not begin with war—it began with silence. Within hours of arriving on Earth, the aliens disabled every form of digital communication, rendering messaging apps, emails, phone calls, and social media completely unusable.
 
-Traditional communication systems depend heavily on internet and cellular connectivity, making them vulnerable during critical situations.
+As panic spreads across the globe, people struggle to communicate, coordinate resources, share critical information, locate missing individuals, and connect with trusted organizations. The collapse of traditional communication infrastructure creates a need for a resilient alternative that can keep communities connected during a global crisis.
 
-ResQNet addresses this challenge by providing a unified platform for community coordination, emergency communication, resource sharing, information dissemination, and missing-person reporting.
+ResQNet addresses this challenge by providing a unified platform for communication, coordination, information sharing, emergency alerts, community support, and resource management in a world where conventional communication systems no longer exist.
+
+---
 
 ## Overview
 
-ResQNet is a full-stack communication and coordination platform designed to strengthen community resilience during connectivity disruptions and emergency situations.
+ResQNet is a next-generation communication and coordination platform designed for a post-disruption world where traditional digital communication networks have been rendered unusable.
+
+The platform enables users to share emergency messages, raise SOS alerts, coordinate through community hubs, access verified information, report missing persons, utilize voice-based communication, and visualize critical locations through an interactive map.
+
+By combining communication, coordination, and community-driven information sharing into a single ecosystem, ResQNet helps humanity remain connected, organized, and resilient in the face of large-scale extraterrestrial disruption.
+
+## ResQNet is a full-stack communication and coordination platform designed to strengthen community resilience during connectivity disruptions and emergency situations.
 
 The platform enables users to:
 
