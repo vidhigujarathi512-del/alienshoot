@@ -205,4 +205,3 @@ This project was developed for a Hackathon/Innovation Challenge and is intended 
 ### Connecting Communities During Disasters
 ```
 
-Looks much more hackathon-worthy 😎🚀.
