@@ -30,6 +30,15 @@ By combining real-time coordination tools with community-driven information shar
 Built as a full-stack application using **Flutter**, **FastAPI**, and **SQLite**, ResQNet focuses on improving communication and situational awareness during disaster scenarios.
 
 ---
+## Core Modules:
+- Emergency Messaging
+- SOS Alerts
+- Community Hubs
+- Knowledge Vault
+- Missing Persons Registry
+- Verified Organizations
+- Voice Capsules
+- Interactive Mapping
 
 ## Features
 
